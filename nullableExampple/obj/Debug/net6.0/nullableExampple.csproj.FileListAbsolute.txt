@@ -1,0 +1,15 @@
+/Users/yellobunny/Projects/c_sharp/nullableExampple/obj/Debug/net6.0/nullableExampple.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/c_sharp/nullableExampple/obj/Debug/net6.0/nullableExampple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/c_sharp/nullableExampple/obj/Debug/net6.0/nullableExampple.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/c_sharp/nullableExampple/obj/Debug/net6.0/nullableExampple.AssemblyInfo.cs
+/Users/yellobunny/Projects/c_sharp/nullableExampple/obj/Debug/net6.0/nullableExampple.csproj.CoreCompileInputs.cache
+/Users/yellobunny/Projects/c_sharp/nullableExampple/bin/Debug/net6.0/nullableExampple
+/Users/yellobunny/Projects/c_sharp/nullableExampple/bin/Debug/net6.0/nullableExampple.deps.json
+/Users/yellobunny/Projects/c_sharp/nullableExampple/bin/Debug/net6.0/nullableExampple.runtimeconfig.json
+/Users/yellobunny/Projects/c_sharp/nullableExampple/bin/Debug/net6.0/nullableExampple.dll
+/Users/yellobunny/Projects/c_sharp/nullableExampple/bin/Debug/net6.0/nullableExampple.pdb
+/Users/yellobunny/Projects/c_sharp/nullableExampple/obj/Debug/net6.0/nullableExampple.dll
+/Users/yellobunny/Projects/c_sharp/nullableExampple/obj/Debug/net6.0/refint/nullableExampple.dll
+/Users/yellobunny/Projects/c_sharp/nullableExampple/obj/Debug/net6.0/nullableExampple.pdb
+/Users/yellobunny/Projects/c_sharp/nullableExampple/obj/Debug/net6.0/nullableExampple.genruntimeconfig.cache
+/Users/yellobunny/Projects/c_sharp/nullableExampple/obj/Debug/net6.0/ref/nullableExampple.dll
